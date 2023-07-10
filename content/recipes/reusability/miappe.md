@@ -30,11 +30,11 @@ which experimental data are linked.
 The main objective of the recipe is to provide a means of submitting to public repositories and tracking genotyping
 data, with a particular focus on plants.  This includes:
 
-    1) Submission of sample data and metadata information to BioSamples.
-    2) Submission of sequencing data and metadata to ENA.
-    3) Retrieval of the correct genome assembly for the genotyping experiment
-    4) Conversion of the resulting analysis file (in VCF format) to be FAIR
-    5) Submission of the genotyping results to EVA.
+1. Submission of sample data and metadata information to BioSamples.
+2. Submission of sequencing data and metadata to ENA.
+3. Retrieval of the correct genome assembly for the genotyping experiment
+4. Conversion of the resulting analysis file (in VCF format) to be FAIR
+5. Submission of the genotyping results to EVA.
 
 In terms of FAIRification goals, this means obtaining stable, resolvable  identifiers for the datasets and meeting
 community annotation requirements as expressed in the MIAPPE requirements. 
